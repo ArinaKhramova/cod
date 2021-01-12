@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/Translations">
+        <file>Course_eng.qm</file>
+        <file>Course_ru.qm</file>
+    </qresource>
+    <qresource prefix="/ikonki">
+        <file>icons/icons8-new-file-90.png</file>
+        <file>icons/icons8-open-document-90.png</file>
+        <file>icons/icons8-save-90.png</file>
+        <file>icons/icons8-save-as-90.png</file>
+        <file>icons/icons8-великобритания-48.png</file>
+        <file>icons/icons8-выход-filled-50.png</file>
+        <file>icons/icons8-контакты-26.png</file>
+        <file>icons/icons8-плюс-24.png</file>
+        <file>icons/icons8-поиск-50.png</file>
+        <file>icons/icons8-права-пользователя-filled-50.png</file>
+        <file>icons/icons8-россия-48.png</file>
+        <file>icons/icons8-удалить-filled-50.png</file>
+        <file>icons/img_67933.png</file>
+    </qresource>
+    <qresource prefix="/file">
+        <file>videocard.db</file>
+    </qresource>
+</RCC>
